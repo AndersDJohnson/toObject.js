@@ -13,13 +13,13 @@ looking at you, [jQuery][jquery] and [Express][express].
 via [npm]:
 
 ```bash
-$ npm install --save toObject
+$ npm install --save toobject
 ```
 
 via [Bower][bower]:
 
 ```bash
-$ bower install --save toObject
+$ bower install --save toobject
 ```
 
 [npm]: https://npmjs.org/
