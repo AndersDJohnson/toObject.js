@@ -1,0 +1,25 @@
+{
+  "name": "toObject",
+  "version": "0.1.0",
+  "description": "Convert Object-like variables into true Objects.",
+  "main": "dist/toObject.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:AndersDJohnson/toObject.git"
+  },
+  "author": "Anders D. Johnson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndersDJohnson/toObject/issues"
+  },
+  "homepage": "https://github.com/AndersDJohnson/toObject",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "load-grunt-tasks": "~0.2.1",
+    "grunt-contrib-uglify": "~0.2.7",
+    "grunt-contrib-copy": "~0.5.0"
+  }
+}
