@@ -27,7 +27,9 @@ $ bower install --save toObject
 
 ## Use
 
-It's simple...
+First load the script - it supports CommonJS, AMD/Require.js, and will set a browser global.
+
+Then it's simple...
 
 ```javascript
 var func = function () {};
