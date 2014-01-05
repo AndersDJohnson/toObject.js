@@ -1,6 +1,6 @@
 {
   "name": "toobject",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Convert Object-like JavaScript variables into true Objects.",
   "main": "dist/toObject.js",
   "ignore": [
