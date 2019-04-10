@@ -1,6 +1,6 @@
 {
   "name": "toobject",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Convert Object-like JavaScript variables into true Objects.",
   "main": "dist/toObject.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git@github.com:AndersDJohnson/toObject.js.git"
   },
-  "author": "Anders D. Johnson",
+  "author": "Anders D. Johnson (https://andersdjohnson.com)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/AndersDJohnson/toObject.js/issues"
